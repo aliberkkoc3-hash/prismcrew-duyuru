@@ -10,5 +10,11 @@
     "mesaj": "Vibrix, PrismX ve PXDBot Kullanım Dışı Sebep Render Free Plan Limiti Doldu 1 Aralıkta Yenilencek",
     "tarih": "26 Kasım 2026 13:00",
     "onem": "kritik"
+  },
+  {
+    "baslik": "PrismEngine Mod Duyurusu",
+    "mesaj": "Modlar Klasik Haxe İle Yazılmıcak Haxe Modları Desteklenmicek Alt Yapı Tamamen Java Olduğu İçin Java İle Yapılan Modlar Desteklenicektir İlerde Haxe İle Yazılan Modların Desteği Olmuyacaktır.",
+    "tarih": "26 Kasım 2026 18:11",
+    "onem": "onemli"
   }
 ]
